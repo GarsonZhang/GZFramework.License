@@ -49,6 +49,7 @@ namespace GZFramework.License.Sample
             return success;
 
         }
+
         /// <summary>
         /// 验证注册码是否正确
         /// </summary>
